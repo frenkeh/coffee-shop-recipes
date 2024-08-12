@@ -1,4 +1,4 @@
-# Caffé latte new from extra dir
+# Caffé latte 
 
 ## Description: Standard caffé latte
 
